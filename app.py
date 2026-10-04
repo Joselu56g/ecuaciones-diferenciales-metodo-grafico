@@ -34,6 +34,7 @@ funciones = {
     "tan": sp.tan,
     "exp": sp.exp,
     "log": sp.log,
+    "ln": sp.log,
     "sqrt": sp.sqrt,
     "pi": sp.pi,
     "E": sp.E
